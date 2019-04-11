@@ -21,6 +21,7 @@
     "helmet": "^3.16.0",
     "knex-cleaner": "^1.1.4",
     "nodemon": "^1.18.11",
+    "server": "^1.0.18",
     "sqlite3": "^4.0.6"
   }
 }

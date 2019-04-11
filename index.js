@@ -1,5 +1,5 @@
 // Manage Recipes (id, name)
-const server = require('./api/server.js');
+const server = require('./api/server');
 
 
 // recipes = tracks

@@ -30,7 +30,7 @@ exports.up = function(knex, Promise) {
           .unique();
   
         tbl
-          .integer('track_id')
+          .integer('recipe_id')
           .unsigned()
           .notNullable()
           .references('id')
