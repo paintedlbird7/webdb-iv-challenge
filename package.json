@@ -19,6 +19,7 @@
   "homepage": "https://github.com/paintedlbird7/webdb-iv-challenge#readme",
   "dependencies": {
     "helmet": "^3.16.0",
+    "knex-cleaner": "^1.1.4",
     "nodemon": "^1.18.11",
     "sqlite3": "^4.0.6"
   }

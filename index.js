@@ -2,8 +2,8 @@
 const server = require('./api/server.js');
 
 
-// recipe = tracks
-// ingredient = students
+// recipes = tracks
+// ingredients = students
 // dish = cohort
 
 
